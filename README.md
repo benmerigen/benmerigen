@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently **a third year software engineering student**
 
-- 👯 I’m looking to secure **a student position or an internship to expand my skill set and develop my abilities as an engineer.**
-
 - 📫 How to reach me **benmerigen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

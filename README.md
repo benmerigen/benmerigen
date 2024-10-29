@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Ben Merigen, 👋</h1>
-<h3 align="center"> A passionate Software Engineer⚙️🛡️</h3>
+<h1 align="center">Hello, I'm Ben Merigen 👋</h1>
+<h3 align="center"> A passionate Software Engineer</h3>
 
 With a strong foundation in software engineering, I bring hands-on experience in developing reliable and secure systems. My expertise spans various programming languages, data structures, and algorithmic problem-solving, and I'm driven by a commitment to delivering optimized, high-quality solutions.
 
